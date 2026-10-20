@@ -19,7 +19,6 @@ body {
     line-height: 1.6;
     
     background-color: #f4f4f9; 
-    background-image: url('/bg.jpg'); 
     background-size: cover;
     background-position: center;
     background-attachment: fixed; 
